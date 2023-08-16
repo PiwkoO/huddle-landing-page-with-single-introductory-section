@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution on frontendmentor.io]()
-- [Live preview]()
+- [Solution on frontendmentor.io](https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-kfNu7SayWo)
+- [Live preview](https://piwkoo.github.io/huddle-landing-page-with-single-introductory-section/)
 
 ## My process
 
